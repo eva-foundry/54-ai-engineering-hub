@@ -1,0 +1,39 @@
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+*.env
+
+# Node
+node_modules/
+.npm/
+package-lock.json
+yarn.lock
+
+# Build artifacts
+dist/
+build/
+*.log
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+
+# Personal notes (keep project files)
+NOTES.md
+TODO.md
