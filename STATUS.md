@@ -26,11 +26,11 @@ AI Engineering Hub is a comprehensive learning resource collection containing 93
 ## Current State
 
 ### Resources Available
-- ✅ 93+ projects catalogued and accessible
-- ✅ Organized by skill level (Beginner: 22, Intermediate: 48, Advanced: 23)
-- ✅ AI Engineering Roadmap included
-- ✅ Production-ready examples for rapid prototyping
-- ✅ Regular updates from open-source community
+- ? 93+ projects catalogued and accessible
+- ? Organized by skill level (Beginner: 22, Intermediate: 48, Advanced: 23)
+- ? AI Engineering Roadmap included
+- ? Production-ready examples for rapid prototyping
+- ? Regular updates from open-source community
 
 ### Integration Points
 - **29-foundry**: Reference implementations for MCP servers
@@ -66,3 +66,14 @@ This project is a **read-only reference library**. When implementing new EVA fea
 
 **Related Projects**: 29-foundry, 33-eva-brain-v2, 07-foundation-layer, 42-learn-foundry  
 **External Repo**: [GitHub - AI Engineering Hub](https://github.com/ai-engineering-hub/ai-engineering-hub)
+
+
+---
+
+## 2026-03-03 -- Re-primed by agent:copilot
+
+<!-- eva-primed-status -->
+
+Data model: GET http://localhost:8010/model/projects/54-ai-engineering-hub
+29-foundry agents: C:\eva-foundry\eva-foundation\29-foundry\agents\
+48-eva-veritas: run audit_repo MCP tool
